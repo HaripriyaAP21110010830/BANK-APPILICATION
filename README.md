@@ -1,0 +1,1 @@
+Engineered a secure, efficient RESTful application using Spring Boot, Spring Data JPA, and MySQL, enhancing account provisioning and transaction performance . Optimized database queries, resource management, and implemented robust authentication mechanisms.
